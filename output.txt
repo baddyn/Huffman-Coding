@@ -1,0 +1,86 @@
+Enter no. of symbols:5
+Enter characters of string :- A
+and their frequency of occurence in the string:- 3
+Enter characters of string :- B
+and their frequency of occurence in the string:- 5
+Enter characters of string :- C
+and their frequency of occurence in the string:- 6
+Enter characters of string :- D
+and their frequency of occurence in the string:- 4
+Enter characters of string :- E
+and their frequency of occurence in the string:- 2
+
+
+As elements are entered
+The Heap showing the root frequencies of the Binary Trees are:
+   3    
+ 5   6  
+4 2 
+
+After heapification 
+The Heap showing the root frequencies of the Binary Trees are:
+   2    
+ 3   6  
+4 5 
+
+After removing 2
+The Heap showing the root frequencies of the Binary Trees are:
+   3    
+ 4   6  
+5 
+
+After removing 3
+The Heap showing the root frequencies of the Binary Trees are:
+ 4  
+5 6 
+
+After inserting 2+3= 5
+The Heap showing the root frequencies of the Binary Trees are:
+   4    
+ 5   6  
+5 
+
+After removing 4
+The Heap showing the root frequencies of the Binary Trees are:
+ 5  
+5 6 
+
+After removing 5
+The Heap showing the root frequencies of the Binary Trees are:
+ 5  
+6 
+
+After inserting 4+5= 9
+The Heap showing the root frequencies of the Binary Trees are:
+ 5  
+6 9 
+
+After removing 5
+The Heap showing the root frequencies of the Binary Trees are:
+ 6  
+9 
+
+After removing 6
+The Heap showing the root frequencies of the Binary Trees are:
+9
+
+After inserting 5+6= 11
+The Heap showing the root frequencies of the Binary Trees are:
+ 9  
+11 
+
+After removing 9
+The Heap showing the root frequencies of the Binary Trees are:
+11
+
+After removing 11
+The Heap showing the root frequencies of the Binary Trees are:
+
+
+After inserting 9+11= 20
+The Heap showing the root frequencies of the Binary Trees are:
+20
+
+The process is completed and Huffman Tree is obtained
+Traversal of Huffman Tree
+
