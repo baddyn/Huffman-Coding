@@ -1,3 +1,3 @@
-# Huffman-Coding
+# Naive Bayes Classifier
 
-This project implements Huffman coding lossless text Compression algorithm using data structures like Binary trees,Linked Lists in C++.
+This project makes use of Naive Bayes Classifier to classify an amazon review as postive or negative, i.e. analyses Sentiment ,based on Amazon Review dataset.
